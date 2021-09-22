@@ -2,4 +2,4 @@
 
 Website for science project for 10th grade Honors Chemistry.
 
-Check it out at: https://snowballearth.netlify.app/
+Check it out at: <a href="https://snowballearth.netlify.app/" target="_blank">https://snowballearth.netlify.app/</a>
